@@ -1,5 +1,8 @@
 # VBA-Challenge
 
+Hello! This weeks challenge was HARD but greatful for everything i've learned so far. The following is the VBA script I used the achive my outcomes shown on my screenshots for my excel file. 
+
+
 Sub code_testing()
 
 Dim ws As Worksheet
